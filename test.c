@@ -2,7 +2,9 @@
 
 int main(){
 
-  printf("Hello World j'écris autre chose");
+
+  printf("Hello World je rajoute des trucs");
+  printf("et un printf en plus");
 
   return 0;
 }
